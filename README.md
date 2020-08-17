@@ -1,4 +1,4 @@
 # Resources
 
 1. CRCI
-2. https://github.com/labuladong/fucking-algorithm/tree/english
+2. https://labuladong.gitbook.io/algo-en/
